@@ -36,7 +36,7 @@ Projeto bem basico
 <video src="SI.mp4" controls title="Title">Projeto</video>
 <br>
 
-![Veja o vídeo](/SI.mp4)
+![Alt text](/images/v.mp4)
 
 
 ![Alt text](/images/home.png)
