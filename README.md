@@ -31,7 +31,7 @@ Projeto bem basico
   <source src="SI.mp4" type="video/mp4">
 </video>
 
-<video src="/SI.mp4" controls title="Title">Projeto</video>
+<video src="SI.mp4" controls title="Title">Projeto</video>
 <br>
 
 ![Veja o vídeo](/SI.mp4)
@@ -44,7 +44,6 @@ Projeto bem basico
 ![Alt text](/images/home1.png)
 <br>
 
-![Alt text](/images/home2.png)
 <br>
 
 ![Alt text](/images/home3.png)
