@@ -31,58 +31,61 @@ Projeto bem basico
   <source src="SI.mp4" type="video/mp4">
 </video>
 
-<video src="SI-1.mp4" controls title="Title">Projeto</video>
+<video src="/SI.mp4" controls title="Title">Projeto</video>
 <br>
 
-![Alt text](images\home.png)
+![Veja o vídeo](/SI.mp4)
 
-<br>
 
-![Alt text](images\home1.png)
-<br>
-
-![Alt text](images\home2.png)
-<br>
-
-![Alt text](images\home3.png)
-<br>
-
-![Alt text](images\home4.png)
+![Alt text](/images/home.png)
 
 <br>
 
- ![Alt text](images\cadeira.png)
+![Alt text](/images/home1.png)
+<br>
+
+![Alt text](/images/home2.png)
+<br>
+
+![Alt text](/images/home3.png)
+<br>
+
+![Alt text](/images/home4.png)
+
+<br>
+
+ ![Alt text](/images/cadeira.png)
 
  <br>
 
- ![Alt text](images\compra2.png)
+ ![Alt text](/images/compra2.png)
 
  <br>
 
- ![Alt text](images\cadeira2.png)
+ ![Alt text](/images/cadeira2.png)
 
  <br>
 
-![Alt text](images\confira.png)
+![Alt text](/images/confira.png)
 <br>
 
 
- ![Alt text](images\carrinhor.png)
+ ![Alt text](/images/carrinhor.png)
  <br>
 
 
- ![Alt text](images\carrinhor2.png)
+ ![Alt text](/images/carrinhor2.png)
  <br>
 
- ![Alt text](images\carrinhototal.png)
+ ![Alt text](/images/carrinhototal.png)
 
 <br>
 
-![Alt text](images\compraconfira.png)
+![Alt text](/images/compraconfira.png)
 
 <br>
 
-![Alt text](images\Obrigado.png)
+![Alt text](/images/Obrigado.png)
 
 ## 🤝 Desenvolvedor
 
