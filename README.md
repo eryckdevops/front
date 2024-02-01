@@ -31,7 +31,7 @@ Projeto bem basico
   <source src="SI.mp4" type="video/mp4">
 </video>
 
-![Assista ao vídeo](Front/SI.mp4)
+![Assista ao vídeo](SI.mp4)
 
 <video src="SI.mp4" controls title="Title">Projeto</video>
 <br>
